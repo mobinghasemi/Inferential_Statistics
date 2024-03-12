@@ -17,3 +17,16 @@
 </ul>
 
 ## In this project, Using inferential statistics, We have validated the effect of viewing advertisements on the purchase of users of a market.
+
+## T-test Independent on ad & psa group
+### The independent t-test, also called the two sample t-test, independent-samples t-test or student's t-test, is an inferential statistical test that determines whether there is a statistically significant difference between the means in two unrelated groups.
+<img src="ttest.png">
+
+## Chi_Square Test
+### Chi-square analysis is applied to categorical variables and is especially useful when those variables are nominal (where order doesn't matter, like marital status or gender).
+<img src="chisq.png"/>
+## Final Solution
+### The chi-squared statistic of 54.005823883685245 is much larger than the critical value of 3.841, which is the cutoff for significance at the 0.05 level. This means that the difference between the two conversion rates is very likely to be real and not due to chance.
+### The p-value of 1.9989623063390075e-13 is also very small. This means that there is a very small probability that the difference between the two conversion rates could have occurred by chance.
+### In other words, the chi-squared statistic and p-value suggest that there is strong evidence to conclude that there is a significant difference between the ad conversion rate and the PSA conversion rate.
+### In your case, the chi-squared statistic is greater than the critical value and the p-value is much less than 0.05, so you can conclude that the difference between the two conversion rates is significant at the 0.05 level.
