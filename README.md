@@ -15,4 +15,5 @@
     <li>most ads day: Day that the person saw the biggest amount of ads</li>
     <li>most ads hour: Hour of day that the person saw the biggest amount of ads</li>
 </ul>
+
 ## In this project, Using inferential statistics, We have validated the effect of viewing advertisements on the purchase of users of a market.
